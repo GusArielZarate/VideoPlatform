@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+backend/venv/
+
+# Local SQLite test databases
+*.db
+*.sqlite3
+
+# Environment variables (credenciales y configuración sensible)
+.env
+backend/.env
+
+# FRONTEND: No se incluye en el repositorio de la EC2 ya que se despliega en S3
+frontend/
+node_modules/
