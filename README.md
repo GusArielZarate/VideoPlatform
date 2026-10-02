@@ -1,6 +1,6 @@
 # VideoPlatform — Plataforma de Videos Full Stack
 
-Plataforma de videos tipo Single Page Application (SPA) construida con **React (Vite)**, **FastAPI**, **PostgreSQL** y diseñada para desplegarse en la infraestructura en la nube de **Amazon Web Services (AWS: S3, EC2, RDS)**.
+(Se uso IA para la generacion del readme y de verdad me termino resultando util este readme waos) Plataforma de videos tipo Single Page Application (SPA) construida con **React (Vite)**, **FastAPI**, **PostgreSQL** y diseñada para desplegarse en la infraestructura en la nube de **Amazon Web Services (AWS: S3, EC2, RDS)**.
 
 ---
 
